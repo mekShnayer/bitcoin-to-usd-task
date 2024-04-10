@@ -1,0 +1,23 @@
+{
+  "name": "torii-task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bull": "^4.12.2",
+    "bullmq": "^5.7.1",
+    "express": "^4.19.2",
+    "ioredis": "^5.3.2",
+    "nock": "^13.5.4",
+    "node-redis": "^0.1.7",
+    "nodemon": "^3.1.0",
+    "redis-cli": "^2.1.2",
+    "redis-server": "^1.2.2"
+  }
+}
